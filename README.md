@@ -1,1 +1,1 @@
-# Recording reading in this branch
+# The blogs in clinkzm.github.io
